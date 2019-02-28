@@ -1,0 +1,60 @@
+body {
+    background-image: url("../images/da2.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#mypic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    width: 80px;
+}
+
+.title1 {
+    text-align: center !important;
+}
+
+#intros {
+    background-color: rgba(110, 110, 110, 0.288);
+    text-align: center !important;
+    margin: 40px 0px 40px 0px;
+    padding: 40px 0px 40px 0px;
+    width:  fit-content;
+    color: white;
+}
+
+.main1 {
+    background-color: black;
+}
+
+.info2 {
+    color: white;
+}
+
+.cardpics {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 180px;
+    width: 180px;
+}
+
+.card {
+    background-color: black;
+}
+
+#contactinfos {
+    text-align: center !important;
+}
+
+#emailicon {
+    height: 40px;
+    width: 40px;
+}
